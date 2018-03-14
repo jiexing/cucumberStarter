@@ -1,1 +1,1 @@
-# cucumberStarter
+# cucumber scala starter project
